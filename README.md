@@ -15,7 +15,7 @@
   <h1>Eu sou estudante</h1>
   <p>
     Estou finalizando o ensino médio na escola Leonardo Vilas Boas,
-      onde tive a oportuinidade de atuar em projetos de artes, roteiros, empreendimentos
+      onde tive a oportunidade de atuar em projetos de artes, roteiros, empreendimentos e finanças.
 <body>
   <!-- código omitido -->
   <p>Minhas habilidades;</p>
