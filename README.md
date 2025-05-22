@@ -15,7 +15,6 @@
 <body>
   <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
   <p>Eu sou Paulina_</p>
-  <h1>Eu sou estudante</h1>
 </body>
 <body>
   <img src="img/avatar-perfil.png" alt="avatar da Paulina" srcset="" />
