@@ -14,7 +14,6 @@
     <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
   <p>Eu sou Paulina</p>
   <h1>Eu sou estudante</h1>
-  <p>
     Estou finalizando o ensino médio na escola Leonardo Vilas Boas,
       onde tive a oportunidade de atuar em projetos de artes, 
     roteiros, empreendimentos e finanças.
