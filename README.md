@@ -12,7 +12,7 @@
 <body>
   <header class="container">
     <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
-  <p>Eu sou Paulina_</p>
+  <p>Eu sou Paulina</p>
   <h1>Eu sou estudante</h1>
   <p>
     Estou finalizando o ensino médio na escola Leonardo Vilas Boas,
