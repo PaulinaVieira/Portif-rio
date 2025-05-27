@@ -10,7 +10,7 @@
   <body></body>
 </html>
 <body>
-  <header class="container">
+  <header class="container" text-center">
     <img src="https://github.com/alura-cursos/portfolio-de-projetos/blob/aula-04/img/avatar-perfil.png?raw=true" alt srcset="" 
   <p>Eu sou Paulina</p>
   <p>Estou finalizando o ensino médio</p>
