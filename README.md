@@ -11,7 +11,7 @@
 </html>
 <body>
   <header class="container">
-    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+    <img src="https://github.com/alura-cursos/portfolio-de-projetos/blob/aula-04/img/avatar-perfil.png?raw=true" alt srcset="" 
   <p>Eu sou Paulina</p>
   <p>Estou finalizando o ensino médio</p>
     Estou finalizando o ensino médio na escola Leonardo Vilas Boas,
