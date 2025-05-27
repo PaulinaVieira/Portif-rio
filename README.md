@@ -19,7 +19,7 @@
     roteiros, empreendimentos e finanças.
 <body>
   <!-- código omitido -->
-  
+
   <p>Minhas habilidades;</p>
   
   <p>Marketing;</p>
