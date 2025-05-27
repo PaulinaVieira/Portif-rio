@@ -21,6 +21,7 @@
   <!-- código omitido -->
   
   <p>Minhas habilidades;</p>
+  
   <p>Marketing;</p>
   <p>Desenho;</p>
   <p>Network;</p>
