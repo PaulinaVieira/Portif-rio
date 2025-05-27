@@ -11,7 +11,16 @@
 <body>
   <header class="container text-center">
     <img src="https://github.com/alura-cursos/portfolio-de-projetos/blob/aula-04/img/avatar-perfil.png?raw=true" alt srcset="" 
-  <p>Eu sou Paulina</p>
+    <img 
+    src="img/avatar-perfil.png"
+    alt="avatar da Fernanda"
+    class="rounded-circle"
+    width="150"
+    height="150"
+    srcset=""
+    <p class="lead">Eu sou Paulina</p>
+  </body>
+    
   <p>Estou finalizando o ensino médio</p>
     Estou finalizando o ensino médio na escola Leonardo Vilas Boas,
       onde tive a oportunidade de atuar em projetos de artes, 
@@ -21,10 +30,12 @@
 
   <p>Minhas habilidades;</p>
   
-  <p>Marketing;</p>
-  <p>Desenho;</p>
-  <p>Network;</p>
-  <p>Educação Financeira;</p>
+<div>
+  
+  <p class="badge bg-secondary">pMarketing;</p>
+  <p class="badge bg-secondary">p>Desenho;</p>
+  <p class="badge bg-secondary">p>Network;</p>
+  <p class="badge bg-secondary">p>Educação Financeira;</p>
   </div>
 </body>
 <header class="container">
