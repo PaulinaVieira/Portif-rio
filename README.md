@@ -20,10 +20,10 @@
          
         <p>Minhas habilidades</p>
         <div>
-            <p class="badge bg-secondary">Marketing</p>
-            <p class="badge bg-secondary">Ingles iniciante</p>
-            <p class="badge bg-secondary">Educação Financeira</p>
-            <p class="badge bg-secondary">Desenho</p>
+            >Marketing</p>
+            >Ingles iniciante</p>
+            >Educação Financeira</p>
+            >Desenho</p>
         </div>
     </header>
     <main class="container">
