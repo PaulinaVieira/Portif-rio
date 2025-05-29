@@ -21,24 +21,24 @@
     <p class="lead">Eu sou Paulina</p>
   </body>
     
-  <p>Estou finalizando o ensino médio</p>
     Estou finalizando o ensino médio na escola Leonardo Vilas Boas,
-      onde tive a oportunidade de atuar em projetos de artes, 
-    roteiros, empreendimentos e finanças.
+      onde tive a oportunidade de atuar em projetos de artes,
+           roteiros, empreendimentos e finanças.
 <body>
-  <!-- código omitido -->
 
-  <p>Minhas habilidades;</p>
+  <p class="lead"><p>Minhas habilidades:</p>
   
 <div>
   
-  <p class="badge bg-secondary">pMarketing;</p>
-  <p class="badge bg-secondary">p>Desenho;</p>
-  <p class="badge bg-secondary">p>Network;</p>
-  <p class="badge bg-secondary">p>Educação Financeira;</p>
+  <p class="badge bg-secondary">Marketing;</p>
+   <p class="badge bg-secondary">Atendimento ao cliente;</p>
+  <p class="badge bg-secondary">Networking;</p>
+  <p class="badge bg-secondary">Educação Financeira;</p>
+   <p class="badge bg-secondary">Ingles (iniciante);</p>
+   <p class="badge bg-secondary">Desenho;</p>
   </div>
 </body>
 <header class="container">
-    <!-- código omitido -->
+   
   </header>
 
