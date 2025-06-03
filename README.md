@@ -16,17 +16,17 @@
     Estou terminando o ensino médio :)
     <p>Estou finalizando o Ensino Médio na escola Leonardo Vilas Boas,
         onde participei de projetos de artes com desenvolvimento
-         de roteiros e criação, e também de finanças e empreendimentos.
+         e criação de roteiros, finanças e empreendimentos.
          
-     Cursos e Certificações
+    Cursos e Certificações:
         
-  Marketing;
+  .Marketing;
   
-  Educação Financeira;
+  .Educação Financeira;
   
-  Atendimento ao cliente;
+  .Atendimento ao cliente;
   
-  Ingles iniciante;
+  .Ingles iniciante;
   
-  Desenho;
+  .Desenho;
     
