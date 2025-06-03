@@ -26,6 +26,8 @@
   
   .Atendimento ao cliente;
   
+  .Network;
+  
   .Ingles iniciante;
   
   .Desenho;
