@@ -18,7 +18,7 @@
         onde participei de projetos de artes com desenvolvimento
          de roteiros e criação, e também de finanças e empreendimentos.
          
-     Cursos e Certificações:
+     Cursos e Certificações
         
   Marketing;
   
