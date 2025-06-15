@@ -18,8 +18,19 @@
         onde participei de projetos de artes com desenvolvimento
          e criação de roteiros, finanças e empreendimentos.
          
-    Cursos e Certificações:
+ <p>Cursos e Certificações</p>
         
+  .Marketing;
+  
+  .Educação Financeira;
+  
+  .Atendimento ao cliente;
+  
+  .Ingles iniciante;
+  
+  .Desenho;
+
+ <p>Minhas habilidades</p>
   <div>
             <p class="badge bg-secondary">HTML</p>
             <p class="badge bg-secondary">CSS</p>
