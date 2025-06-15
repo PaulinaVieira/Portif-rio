@@ -20,7 +20,8 @@
          
     Cursos e Certificações:
         
-  <p class="badge bg-secondary">HTML</p>
+  <div>
+            <p class="badge bg-secondary">HTML</p>
             <p class="badge bg-secondary">CSS</p>
             <p class="badge bg-secondary">JavaScript</p>
             <p class="badge bg-secondary">Scratch</p>
@@ -164,7 +165,7 @@
             </div>
         </div>
     </div>
- <!-- Modal 3 -->
+    <!-- Modal 3 -->
     <div class="modal" id="modal3" tabindex="-1">
         <div class="modal-dialog">
             <div class="modal-content">
@@ -201,6 +202,16 @@
         </div>
     </div>
     <footer class="container py-5">
-        <h2>Entre em contato</h2>
+        
+<h2>Entre em contato</h2>
         <div>
-            <i class="bi bi-github"></
+            <i class="bi bi-github"></i>
+            <a href="https://github.com/femascheti">GitHub</a>
+        </div>
+        <p class="my-5 text-center">© Copyright 2024. Produzido por Paulina Vieira</p>
+    </footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
