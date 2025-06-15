@@ -20,15 +20,15 @@
          
  <p>Cursos e Certificações</p>
         
-  .Marketing;
+  ●Marketing;
   
-  .Educação Financeira;
+  ●Educação Financeira;
   
-  .Atendimento ao cliente;
+  ●Atendimento ao cliente;
   
-  .Ingles iniciante;
+  ●Ingles iniciante;
   
-  .Desenho;
+  ●Desenho;
 
  <p>Minhas habilidades</p>
   <div>
